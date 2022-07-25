@@ -7,8 +7,8 @@ Developed a program that that finds the closest pair of K-12 schools in Vermont 
 ## Description
 Through a divide-and-conquer aproach, this program determines which schools should be consolidated into one under the hypothetical situation that many towns are merging schools (combining students in two neighboring towns into one school) due to the decreasing number of school-aged children in Vermont. 
 
-##Getting Started
-###Executing the Program
+## Getting Started
+### Executing the Program
 1. To run from the command line, open a terminal in the directory where ClosestSchools is located.
 2. To compile, type: 
     ```
