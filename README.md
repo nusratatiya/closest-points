@@ -19,5 +19,5 @@ Through a divide-and-conquer aproach, this program determines which schools shou
     java -cp . ClosestSchools.Main 
     ```
 
-##Authors
+## Authors
 Nusrat Atiya
